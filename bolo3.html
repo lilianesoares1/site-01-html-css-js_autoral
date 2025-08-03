@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Comprar Bolo 1</title>
+  <link rel="stylesheet" href="styleprodutos.css">
+</head>
+<body>
+  <h1>Bolo de Frutas</h1>
+  <p>Forma de pagamento:</p>
+  
+  <form>
+  <label>
+    <input type="radio" name="pagamento" value="pix"> Pix
+  </label>
+  <label>
+    <input type="radio" name="pagamento" value="cartao"> Cartão
+  </label>
+</form>
+
+<div id="pix-info" class="pagamento-opcao">
+  <p>Dados Pessoais</p>
+  <input type="text" placeholder="Nome Completo" autocomplete="off">
+  <input type="text" placeholder="Email" required autocomplete="off">
+  <p><strong>Código Pix:</strong> 123e456789</p>
+  <a href="confpix.html">Copiar Código</a>
+  
+</div>
+
+<div id="cartao-info" class="pagamento-opcao">
+<p>Dados Pessoais</p>
+  <input type="text" placeholder="Nome Completo" autocomplete="off">
+  <input type="text" placeholder="Email" required autocomplete="off">
+
+  <p>Dados do cartão:</p>
+  <input type="text" placeholder="Número do Cartão" required autocomplete="off">
+  <input type="text" placeholder="Nome no Cartão" required autocomplete="off">
+  <a href="confirmacao.html">Finalizar compra</a>
+</div>
+
+ 
+ 
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #fdeaff;
+      text-align: center;
+      padding: 100px 20px;
+    }
+    
+    h1 {
+      color: #ff69b4;
+    }
+
+    p {
+      font-size: 18px;
+    }
+
+    a /*link do botão de inicio */ {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #ff69b4;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    a:hover {
+         background-color: #ff1493;
+    }
+
+ ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 1rem;
+}
+
+ li {
+  margin: 0 20px;
+}
+
+
+

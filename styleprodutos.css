@@ -1,0 +1,79 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #fdeaff;
+      text-align: center;
+      padding: 100px 20px;
+    }
+
+    h1 {
+      color: #ff69b4;
+    }
+
+    p {
+      font-size: 18px;
+    }
+
+    a /*link do botão de copiar código*/ {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #ff69b4;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      
+      
+    }
+
+    a:hover {
+         background-color: #ff1493;
+    }
+
+ ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 20px;
+}
+
+ li {
+  margin: 0;
+}
+
+.pagamento-opcao {
+  display: none;
+  margin-top: 10px;
+  background-color: #f7f7f7;
+  padding: 15px;
+  border-radius: 8px;
+  
+ }
+
+
+
+#cartao-info input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 200px;
+  border-radius: 4px;
+}
+
+#dados-cartao input{
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 200px;
+  border-radius: 4px;
+}
+
+#pix-info input{
+   display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  max-width: 200px;
+  border-radius: 4px;
+}

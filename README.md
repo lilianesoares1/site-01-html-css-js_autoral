@@ -1,6 +1,6 @@
 # site-completo-01
 
-Confeitaria Rio
+CONFEITARIA RIO
 
 Projeto criado para prática de Front-End, desenvolvendo um site de confeitaria. O foco foi aprimorar habilidades em HTML, CSS e JavaScript.
 

@@ -14,6 +14,5 @@ Estilização com CSS
 Interatividade simples com JavaScript 
 
 
-Como testar:
-
+Clique para visualizar:
 https://lilianesoares1.github.io/site-01-html-css-js_autoral/

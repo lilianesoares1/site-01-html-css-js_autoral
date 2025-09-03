@@ -2,7 +2,7 @@
 
 CONFEITARIA RIO
 
-Projeto criado para prática de Front-End, desenvolvendo um site de confeitaria. O foco foi aprimorar habilidades em HTML, CSS e JavaScript.
+Projeto criado para prática de Front-End, desenvolvendo um site de confeitaria. O foco foi desenvolver habilidades em HTML, CSS e JavaScript.
 
 
 Funcionalidades/prática aplicada:
